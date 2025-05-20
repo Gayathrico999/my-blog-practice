@@ -2,9 +2,27 @@
 body {
     font-family: Arial, sans-serif;
   }
+<<<<<<< HEAD
   /* Dark Theme */
 body.dark-mode {
     background-color: #121212;
     color: #f1f1f1;
+=======
+  /* Subscribe Button */
+.subscribe-btn {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
   }
   
+  .subscribe-btn:hover {
+    background-color: #0056b3;
+>>>>>>> 9368a3bb9fdd3ee515f48c4aa51d0f59cb3e915c
+  }
+  <<<<<<< HEAD
+/* Your dark theme changes */
+=======
+/* Changes from main branch */
+>>>>>>> main
